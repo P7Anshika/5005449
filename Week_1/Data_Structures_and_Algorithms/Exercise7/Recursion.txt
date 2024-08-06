@@ -1,0 +1,6 @@
+Recursion involves a function calling itself to solve smaller parts of a problem, breaking it into simpler steps, often resulting in cleaner and more readable code.
+
+
+Benefits:
+ Makes complex problems easier to understand and code by directly addressing smaller versions of the same problem.
+ Effectively handles problems that can be broken into similar sub-problems, like sorting or tree traversal.

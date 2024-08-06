@@ -1,0 +1,6 @@
+Big O Notation:
+Measures how an algorithm's runtime increases as input size grows, helping compare efficiency by showing the worst-case scenario.
+
+Best Case- The scenario where the algorithm performs the least number of operations. For search operations, this might be finding the target at the first position.
+Average Case- For search, this could be finding the target after scanning half of the array.
+Worst Case- The scenario where the algorithm performs the maximum number of operations. For search, this is usually finding the target at the last position or not finding it at all.

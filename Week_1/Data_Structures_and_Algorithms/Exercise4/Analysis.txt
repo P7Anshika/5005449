@@ -1,0 +1,15 @@
+Time Complexity:
+Add- O(1) 
+Search- O(n) 
+Traverse- O(n) 
+Delete- O(n) 
+
+Limitations of Arrays:
+Fixed size that can’t be changed.
+Inefficient for frequent insertions/deletions due to shifting.
+Less flexible compared to dynamic data structures like lists or maps.
+
+When to Use Arrays:
+When the number of elements is fixed.
+When quick access by index is needed.
+For simple datasets where resizing and frequent changes aren't required.

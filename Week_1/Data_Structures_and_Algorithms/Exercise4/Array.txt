@@ -1,0 +1,3 @@
+Array in memory and benefit:
+Arrays are stored in a single block of memory, making it quick to access elements using their index (O(1) time). 
+They are simple and efficient for handling fixed-size collections.

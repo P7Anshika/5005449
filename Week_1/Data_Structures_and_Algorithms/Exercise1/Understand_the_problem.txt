@@ -1,0 +1,8 @@
+Data structures are essential:
+Data structures organize and manage inventory data to speed up operations like searching and updating, ensuring the system handles growth without performance issues.
+
+suitable data structures:
+i. ArrayList- Good for dynamic resizing and fast access by index, but slow for insertion and deletion due to shifting elements.
+ii.HashMap- Ideal for quick data access with unique keys, offering average constant time for insertions, deletions, and lookups.
+
+

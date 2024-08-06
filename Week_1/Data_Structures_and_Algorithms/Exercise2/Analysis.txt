@@ -1,0 +1,14 @@
+Linear Search:
+Time Complexity- O(n)
+Best Case- O(1) 
+Average Case- O(n) 
+Worst Case- O(n) 
+
+
+Binary Search:
+Time Complexity- O(log n)
+Best Case: O(1) 
+Average Case: O(log n)
+Worst Case: O(log n) 
+
+For an e-commerce platform with large datasets and sorted products, binary search is more efficient due to its faster logarithmic time complexity.

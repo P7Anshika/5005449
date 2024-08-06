@@ -1,0 +1,13 @@
+Linear Search
+Checks each element until the target is found or the end is reached.
+Time Complexity:
+  - Best Case- O(1) 
+  - Average Case-O(n) 
+  - Worst Case- O(n) 
+
+Binary Search:
+Searches a sorted list by repeatedly halving the search range.
+Time Complexity:
+  - Best Case- O(1) 
+  - Average Case- O(log n) 
+  - Worst Case- O(log n) 

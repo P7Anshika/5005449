@@ -1,0 +1,9 @@
+Time Complexity:
+Add- O(n) 
+Search- O(n) 
+Traverse- O(n) 
+Delete- O(n) 
+
+Advantages of Linked Lists Over Arrays:
+- Linked lists can grow and shrink dynamically, whereas arrays have a fixed size.
+- Linked lists allow insertions and deletions without need to shift elements, unlike arrays.

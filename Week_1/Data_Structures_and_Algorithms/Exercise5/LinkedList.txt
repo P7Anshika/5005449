@@ -1,0 +1,5 @@
+Singly Linked List: 
+Nodes are linked in one direction; each node points to the next, and the last node points to null. Efficient for inserting and deleting at the beginning but slower for operations in the middle or end.
+
+Doubly Linked List: 
+Nodes are linked in both directions; each node points to both the next and previous nodes. This allows for easy traversal in both directions and efficient insertions and deletions at both ends.

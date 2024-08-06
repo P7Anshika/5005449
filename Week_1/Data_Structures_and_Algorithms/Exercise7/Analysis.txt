@@ -1,0 +1,6 @@
+Time Complexity:
+O(n), where n is the number of recursive calls. Each call reduces the problem size by 1, leading to a linear number of calls.
+
+Optimization:
+Memoization- Store results of expensive recursive calls to avoid redundant computations.
+Iterative Approach- For problems with deep recursion, an iterative approach may be more efficient and avoid stack overflow errors.

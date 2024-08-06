@@ -1,0 +1,11 @@
+Linear Search:
+Time Complexity-O(n)
+Useful for unsorted or small datasets. Simple to implement.
+
+Binary Search:
+Time Complexity- O(logn)
+Efficient for large, sorted datasets. Requires the list to be sorted.
+
+
+Linear Search is better for smaller or unsorted lists.
+Binary Search is preferred for larger datasets that are already sorted or can be sorted, providing faster search times due to its logarithmic complexity.

@@ -1,0 +1,7 @@
+Time complexity of eaach operation:
+Add Operation (addProduct)- Average time complexity is O(1), as HashMap handles additions quickly with hashing.
+Update Operation (updateProduct)- Average time complexity is O(1), since HashMap updates are fast if the key exists.
+Delete Operation (deleteProduct)- Average time complexity is O(1), with HashMap efficiently removing items.
+
+Optimization:
+HashMap efficiently manages add, update, and delete operations with average O(1) complexity. Ensure optimal capacity and load factor to reduce rehashing and include robust error handling.
